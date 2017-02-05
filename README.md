@@ -1,0 +1,2 @@
+# AndroidLiveTemplate
+Android Live Templates.
